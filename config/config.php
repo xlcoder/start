@@ -1,0 +1,6 @@
+<?php
+
+/*
+ * website seo info
+ */
+
