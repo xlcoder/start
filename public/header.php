@@ -15,7 +15,7 @@ require_once "../config/config.php";
     <meta name="description" content="">
     
     <title><?= $seo["maintitle"] ?> </title>
-    <link rel="stylesheet" href="public/css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/main.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->

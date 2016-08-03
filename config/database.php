@@ -4,9 +4,9 @@
  * connect database info
  */
 
-$database = new medoo([
+$db = new medoo([
     'database_type' => 'mysql',
-    'database_name' => '',
+    'database_name' => 'bank',
     'server' => 'localhost',
     'username' => '',
     'password' => '',
