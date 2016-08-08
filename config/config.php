@@ -21,7 +21,7 @@ $mail = new PHPMailer();
 $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp.live.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = '';                 // SMTP username
+$mail->Username = 'Allman@example.com';                 // SMTP username
 $mail->Password = '';                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 25;                                    // TCP port to connect to
