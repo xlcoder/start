@@ -11,7 +11,10 @@
     if (isset($_SESSION["admin_user"])) {
         displayButton("admin.php", "admin-menu", "Admin Menu");
     }
+
 ?>
+
+
 
 
 <?php require_once 'footer.php'; ?>
